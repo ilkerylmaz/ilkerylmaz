@@ -18,7 +18,7 @@
 <a href="https://codepen.io/ilkerylmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ilkerylmaz" height="30" width="40" /></a>
 <a href="https://twitter.com/7676_ilker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7676_ilker" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ilkerylmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilkerylmaz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/i̇lker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="i̇lker" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12259302/ilker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="i̇lker" height="30" width="40" /></a>
 <a href="https://medium.com/@ilkerylmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ilkerylmz" height="30" width="40" /></a>
 </p>
 
