@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/ilker-yılmaz-b097a1251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilkerylmaz" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
@@ -42,7 +42,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilkerylmaz&theme=cobalt"/>
 </div>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ilkerylmaz/ilkerylmaz/d14cfdcb3e3904396a564343c7f281facdc47b54/github-user-contribution%20(1).svg" />
+
+ 
