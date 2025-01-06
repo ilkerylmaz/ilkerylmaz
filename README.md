@@ -41,3 +41,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilkerylmaz&theme=cobalt"/>
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ilkerylmaz/ilkerylmaz/d14cfdcb3e3904396a564343c7f281facdc47b54/github-user-contribution%20(1).svg" />
