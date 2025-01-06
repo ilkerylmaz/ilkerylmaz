@@ -36,3 +36,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilkerylmaz&show_icons=true&locale=en&theme=cobalt" alt="ilkerylmaz" />
   <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ilkerylmaz&count_private=true&theme=react&border_radius=10" alt="ilkerylmaz" />
 </div>
+
+<h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilkerylmaz&theme=cobalt"/>
+</div>
