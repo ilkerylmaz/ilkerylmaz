@@ -30,6 +30,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkerylmaz&show_icons=true&locale=en&layout=compact" alt="ilkerylmaz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilkerylmaz&show_icons=true&locale=en" alt="ilkerylmaz" /></p>
+<h3 align="center" style="margin-top: 50px;">📊 Stats:</h3>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkerylmaz&layout=compact&theme=cobalt" alt=ilkerylmaz />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilkerylmaz&show_icons=true&locale=en&theme=cobalt" alt="ilkerylmaz" />
+  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ilkerylmaz&count_private=true&theme=react&border_radius=10" alt="ilkerylmaz" />
+</div>
