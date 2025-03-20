@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js - TypeScript - JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DuranGZR?tab=repositories](https://github.com/ilkerylmaz?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ilkerylmaz?tab=repositories](https://github.com/ilkerylmaz?tab=repositories)
 
 - 📫 How to reach me **ilkerylmaz57@hotmail.com**
 
