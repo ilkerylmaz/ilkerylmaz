@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duran</h1>
+<h1 align="center">Hi 👋, I'm İlker</h1>
 <h3 align="center">I’m interested in technology, especially programming and software development.</h3>
 
 
