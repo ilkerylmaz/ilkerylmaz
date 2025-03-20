@@ -50,7 +50,7 @@
   
   <!-- Next.js (Beyaz Arka Planlı) -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Next.js-logo.svg" alt="nextjs" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="nextjs" width="40" height="40"/>
 </a>
   
   <!-- Firebase -->
